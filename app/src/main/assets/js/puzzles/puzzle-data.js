@@ -32,5 +32,10 @@ export const puzzles = {
         title: '거꾸로 쓰인 종이',
         question: '거울에 비춰보면 뭔가 보일지도...',
         type: 'paper-clue'
+    },
+    'periodic-table-clue': {
+        title: '주기율표',
+        question: '주기율표와 단서를 대조해보자',
+        type: 'periodic-table-clue'
     }
 };
